@@ -1,3 +1,5 @@
+LOCAL
+
 # espriZza
 Gérer un conflit
 
